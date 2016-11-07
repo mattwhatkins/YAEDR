@@ -11,7 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Memory Scanners", "Memory S
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Realtime", "Realtime", "{5B22B49B-7DCD-445B-B689-328D3BF021EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "etwproc2", "etwproc2\etwproc2.csproj", "{315D881D-43AD-40D4-86FB-9B68DAABB251}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "etwtracker", "etwproc2\etwtracker.csproj", "{315D881D-43AD-40D4-86FB-9B68DAABB251}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,5 +37,6 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{C5F4DAF8-CA9C-4DAE-BAAE-364ECB37DB68} = {811AD93D-F7C5-4DB8-AC7B-CBF8E84579F9}
+		{315D881D-43AD-40D4-86FB-9B68DAABB251} = {5B22B49B-7DCD-445B-B689-328D3BF021EC}
 	EndGlobalSection
 EndGlobal

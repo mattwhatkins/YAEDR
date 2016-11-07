@@ -7,8 +7,8 @@
     <ProjectGuid>{315D881D-43AD-40D4-86FB-9B68DAABB251}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>etwproc2</RootNamespace>
-    <AssemblyName>etwproc2</AssemblyName>
+    <RootNamespace>etwtracker</RootNamespace>
+    <AssemblyName>etwtracker</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <NuGetPackageImportStamp>
@@ -58,7 +58,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="etwproc2.cs" />
+    <Compile Include="etwtracker.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
